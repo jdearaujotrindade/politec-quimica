@@ -7,4 +7,5 @@
     margin: 0px;
     padding: 0px;
     font: normal 400 1em var(--fonte-padrao);
+    line-height: 1.5em;
 }
