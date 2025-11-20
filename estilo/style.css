@@ -41,6 +41,10 @@ header > nav > a:hover {
 main > section.hero {
     padding: 96px 48px;
 }
+main > section.hero > section.conteudo {
+    max-width: 992px;
+    margin: auto;
+}
 main > section.hero > section.conteudo > h1 {
     font-size: 2em;
     margin-bottom: 24px;
@@ -51,6 +55,10 @@ main > section.hero > section.conteudo > p {
 main > section.sobre {
     background-color: var(--brand-500);
     padding: 96px 48px;
+}
+main > section.sobre > section.conteudo {
+    max-width: 992px;
+    margin: auto;
 }
 main > section.sobre > section.conteudo > h2 {
     font-size: 1.5em;
@@ -64,6 +72,10 @@ main > section.sobre > section.conteudo > p {
 main > section.produtos {
     padding: 96px 48px;
 }
+main > section.produtos > section.conteudo {
+    max-width: 992px;
+    margin: auto;
+}
 main > section.produtos > section.conteudo > h2 {
     font-size: 1.5em;
     margin-bottom: 24px;
@@ -75,6 +87,10 @@ main > section.produtos > section.conteudo > ul {
 main > section.servicos {
     background-color: var(--brand-500);
     padding: 96px 48px;
+}
+main > section.servicos > section.conteudo {
+    max-width: 992px;
+    margin: auto;
 }
 main > section.servicos > section.conteudo > h2 {
     font-size: 1.5em;
@@ -94,6 +110,10 @@ main > section.servicos > section.conteudo > ul {
 main > section.tratamentos {
     padding: 96px 48px;
 }
+main > section.tratamentos > section.conteudo {
+    max-width: 992px;
+    margin: auto;
+}
 main > section.tratamentos > section.conteudo > h2 {
     font-size: 1.5em;
     margin-bottom: 24px;
@@ -109,6 +129,10 @@ main > section.tratamentos > section.conteudo > ul {
 main > section.contato {
     background-color: var(--brand-500);
     padding: 96px 48px;
+}
+main > section.contato > section.conteudo {
+    max-width: 992px;
+    margin: auto;
 }
 main > section.contato > section.conteudo > h2 {
     font-size: 1.5em;
